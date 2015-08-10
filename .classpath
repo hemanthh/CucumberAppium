@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/srs/Downloads/cucumber jars/cucumber-core-1.1.5.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/Downloads/cucumber jars/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/Downloads/cucumber jars/cucumber-java-1.1.5.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/Downloads/cucumber jars/cucumber-junit-1.1.5.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/Downloads/cucumber jars/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/Downloads/cucumber jars/gherkin-2.12.1.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/Downloads/cucumber jars/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/Downloads/cucumber jars/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/cssparser-0.9.14.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/htmlunit-2.15.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/htmlunit-core-js-2.15.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/httpmime-4.3.6.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/java-client-1.5.0.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/java-client-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/jna-platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/nekohtml-1.9.21.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/operadriver-1.5.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/appium_JARS/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/Downloads/cucumber jars/selenium-java-2.45.0.jar"/>
+	<classpathentry kind="lib" path="/Users/srs/Downloads/cucumber jars/selenium-server-standalone-2.45.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
